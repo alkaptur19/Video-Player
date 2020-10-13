@@ -39,7 +39,7 @@
 
 ### 2.2	Интерфейс пользователя<a name="2.2"></a>   
 ### Окно управления приложением
-![alt text]()  
+![alt text](https://github.com/andrey-zverev/Video-Player/blob/main/Mokups/video.jpg)  
 
 Интерфейс взаимодействия с видеоплеером.
 
@@ -65,6 +65,6 @@
 
 #### VLC MediaPlayer
 
-![alt text]()
+![alt text](https://github.com/andrey-zverev/Video-Player/blob/main/Images/8292_d6b5b6924f7f8118104cd3e3921deeac.png)
 
 VLC Media Player это действительно мощный мультимедиа плеер для Windows. Он действительно быстро способен проигрывать все форматы медиафайлов. VLC Media Player нужно всего лишь 3 секунды чтобы быть готовым к работе, вам остается лишь выбрать файл, и VLC воспроизведет его. Он поддерживает MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ... а также диски DVD, VCD, и некоторые потоковые протоколы.
